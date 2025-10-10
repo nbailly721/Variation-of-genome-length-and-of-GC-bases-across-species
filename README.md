@@ -1,2 +1,2 @@
 # How-do-mitochondrial-genome-sizes-and-GC-content-vary-across-different-species-
-Use of Linux and Rstudio to answer the question of interest
+The .tsv file produced via de Shell script in Linux was analyzed using R
