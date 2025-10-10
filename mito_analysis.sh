@@ -1,7 +1,5 @@
 #!/bin/bash
 
-######Question of Interest: How do mitochondrial genome sizes and GC content vary across different species?
-
 ###Loading data
 
 #Download Human Mitochondrial genome
