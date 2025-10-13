@@ -1,6 +1,5 @@
-Variation of Genome Length and GC Content Across Species
-
-This project investigates mitochondrial genome sequence length and GC content across multiple species by downloading raw genome data, processing it with shell scripting, and analyzing it with R.
+                                                                  ######Variation of Genome Length and GC Content Across Species######
+-This project investigates mitochondrial genome sequence length and GC content across multiple species by downloading raw genome data, processing it with shell scripting, and analyzing it with R.
 
 ##📁 Dataset
 
